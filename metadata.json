@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Zen Garden Animator",
+  "description": "An interactive application that visualizes a Japanese zen garden. Enter a theme, and watch as the garden transforms with an AI-generated haiku and description.",
+  "requestFramePermissions": []
+}
